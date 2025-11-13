@@ -33,3 +33,10 @@ It features a GUI file picker for easy image selection and automatically saves t
 2. Install dependencies:
    ```bash
    pip install opencv-python
+
+
+
+
+# Select an Image from PC 
+<img width="1359" height="766" alt="image" src="https://github.com/user-attachments/assets/f5753712-5433-4f87-9289-5da2bd4725ea" />
+
